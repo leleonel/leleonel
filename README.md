@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?leleonel=anuraghazra&show_icons=true&theme=radical)
-Here are some ideas to get you started:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apileleonelanuraghazra)](https://github.com/anuraghazra/github-readme-stats)Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
