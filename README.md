@@ -1,4 +1,4 @@
-## Olá! Eu sou a Le Leonel, Java Developer Jr e mãe do Miguel e da Helena 🤗
+## Olá! Eu sou a Le Leonel, Java Developer Jr 🤗
 
 
 <div align="center">
