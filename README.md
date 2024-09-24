@@ -1,4 +1,4 @@
-## Olá! Eu sou a Le Leonel, Java Developer Jr 🤗
+## Olá! Eu sou a Le Leonel, Java Developer 🤗
 
 
 <div align="center">
